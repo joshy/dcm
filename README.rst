@@ -32,7 +32,7 @@ Requires Python 3.7+.
 CLI Quickstart
 ==============
 
-After installing the python package you will have the command ``dcm`` available.
+After installing the python package (``python -m pip install .``) you will have the command ``dcm`` available.
 Running ``dcm --help`` will give an overview of the CLI options.
 
 Before interacting with most DICOM servers (e.g a PACS) you will need to have
